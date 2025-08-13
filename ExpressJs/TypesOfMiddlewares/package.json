@@ -1,0 +1,16 @@
+{
+  "name": "typesofmiddlewares",
+  "version": "1.0.0",
+  "description": "There are 5 types of middleware in express:-\r (1).Built-In Middleware\r (2).Custom Middleware\r (3).Third-Party Middleware\r (4).Application Level Middleware\r (5).Router-Level Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "morgan": "^1.10.1"
+  }
+}

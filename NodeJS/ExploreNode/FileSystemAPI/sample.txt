@@ -1,0 +1,4 @@
+Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to execute JavaScript
+code outside of a web browser. Traditionally, JavaScript was primarily used for client-side web development within
+browsers. Node.js, built on Google Chrome's V8 JavaScript engine, extended JavaScript's capabilities to the 
+server-side and beyond.Updated second time

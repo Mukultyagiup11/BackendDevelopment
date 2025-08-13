@@ -1,0 +1,16 @@
+{
+  "name": "1.gettingstarted",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukul Tyagi",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0",
+    "validator": "^13.15.15"
+  }
+}
